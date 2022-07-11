@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Joke</string>
     <string name="start_player">Start playing the song</string>
+    <string name="music_notification_title">Music service</string>
+    <string name="music_notification_text">Started playing gorrilaz</string>
 </resources>
